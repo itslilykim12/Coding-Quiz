@@ -21,7 +21,7 @@
     font-size: 20px;
     color: white;
 }
-#questions {
+#questionsSec {
     margin: 20px;
 }
 
@@ -96,7 +96,7 @@ li {
 
 #createDiv {
     margin-top: 20px;
-    border-top: 1px solid lightgray;
+    border-top: 5px solid gray;
 }
 
 /* Start media queries */
