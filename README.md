@@ -9,5 +9,10 @@ This quiz application is built with html, css, and javascript.
 # Some Resources 
 I used some websites for guidance 
 https://www.codingnepalweb.com/2020/10/create-quiz-app-with-timer-using-javascript.html
+my go to website for all related for javascript and css styles
+https://www.w3schools.com/
+
+# Created 
+By Lily Kim
 
 
