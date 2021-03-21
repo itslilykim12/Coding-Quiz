@@ -1,4 +1,4 @@
-//Lily Ki'm Coding Quiz 
+//Lily Kim's Coding Quiz 
 // Declared variables
 var score = document.querySelector("#score");
 var clear = document.querySelector("#clear");
