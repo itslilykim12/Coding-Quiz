@@ -19,6 +19,10 @@ https://www.w3schools.com/
 
 ![scores](https://user-images.githubusercontent.com/78708872/111916861-59e48800-8a53-11eb-8b7d-b64f58f17c53.PNG)
 
+# Github Links 
+https://itslilykim12.github.io/Coding-Quiz/. 
+https://github.com/itslilykim12/Coding-Quiz
+
 # Created 
 By Lily Kim
 
